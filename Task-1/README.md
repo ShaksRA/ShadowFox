@@ -1,5 +1,5 @@
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/ShaksRA/github-portfolio)
 
 ---
 
@@ -11,9 +11,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
+![image](https://github.com/user-attachments/assets/5b2942dc-969a-4296-8158-4c8897586b35)
 
 ---
 
